@@ -42,11 +42,12 @@
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
             this.label11.Font = new System.Drawing.Font("Dubai", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(242, 39);
+            this.label11.Location = new System.Drawing.Point(333, 25);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(225, 40);
+            this.label11.Size = new System.Drawing.Size(63, 40);
             this.label11.TabIndex = 26;
-            this.label11.Text = "Premium Gym Dubai";
+            this.label11.Text = "Gym";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label1
             // 
